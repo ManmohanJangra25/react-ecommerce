@@ -1,0 +1,19 @@
+.brownBtn{
+    background-color: #928656;
+    border: none;
+    outline: none;
+    transition: 0.2s linear;
+}
+
+.brownBtn:hover{
+    background-color: #EFAC15;
+}
+
+.brownBtnLarge{
+    min-width: 290px;
+    max-width: 290px;
+    min-height: 70px;
+    max-height: 70px;
+    font-size: 18px;
+    line-height: 32.13px;
+}
